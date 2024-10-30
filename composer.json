@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php": ">=7.4",
+        "monei/monei-php-sdk": "^2.4.0"
+    }
+}
